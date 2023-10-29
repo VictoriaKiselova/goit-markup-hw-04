@@ -299,9 +299,8 @@ img {
 }
 .social-media-list {
   display: flex;
-  justify-content: center;
-  align-items: center;
   gap: 24px;
+  justify-content: center;
 }
 .icon-sotial-media {
   display: block;
