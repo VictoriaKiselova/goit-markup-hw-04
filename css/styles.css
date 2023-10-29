@@ -301,6 +301,7 @@ img {
   display: flex;
   gap: 24px;
   justify-content: center;
+  align-items: center;
 }
 .icon-sotial-media {
   display: block;
@@ -447,8 +448,11 @@ img {
   letter-spacing: 0.02em;
   margin-bottom: 16px;
 }
-.social-media-list {
+.social-media-list-footer {
+  display: flex;
   gap: 16px;
+  justify-content: center;
+  align-items: center;
 }
 /* .icon-media:not(:last-child) {
   margin-right: 16px;
